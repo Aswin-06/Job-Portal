@@ -1,0 +1,94 @@
+
+
+.div{
+    background-color: white;
+    width: 700px;
+    height: 700px;
+    position: absolute;
+    left: 400px;
+    top: 60px;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+
+.head{
+    color: rgb(60, 155, 187);
+    font-size: 50px;
+    background-color: white;
+    position: relative;
+    top: 90px;
+    left: 30px;
+    width: 300px;
+}
+
+.input1{
+    width: 370px;
+    height: 50px;
+    border-color: rgb(187, 183, 183);
+    position: absolute;
+    bottom: 375px;
+    left: 145px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.input2{
+    width: 370px;
+    height: 50px;
+    border-color: rgb(187, 183, 183);
+    position: absolute;
+    bottom: 245px;
+    left: 145px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.user{
+    font-size: 22px;
+    color: rgb(115, 108, 108);
+    position: absolute;
+    bottom: 450px;
+    left: 145px;
+    background-color: white;
+}
+
+.password{
+    font-size: 22px;
+    color: rgb(115, 108, 108);
+    position: absolute;
+    bottom: 320px;
+    left: 145px;
+    background-color: white;
+}
+
+.login{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 100;
+    position: absolute;
+    bottom: 130px;
+    left: 235px;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.create{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 100;
+    position: absolute;
+    bottom: 50px;
+    left: 235px;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.login:hover{
+    cursor: pointer;
+}
+
+.create:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,88 @@
+
+.img{
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    position: relative;
+    left: 250px;
+    bottom: 90px;
+}
+
+.block{
+    border: 2px solid grey;
+    height: 350px;
+    width: 320px;
+    display: grid;
+    border-radius: 15px;
+}
+
+.job{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+
+
+.div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+    position: relative;
+    bottom: 60px;
+    left: 20px;
+}
+
+.name{
+    position: relative;
+    top: 15px;
+    left: 20px;
+}
+
+.intern{
+    display: flex;
+    gap: 60px;
+    position: relative;
+    top: 100px;
+    left: 40px;
+}
+
+.type{
+    font-size: 15px;
+    background-color: rgb(173, 171, 171);
+    height: 20px;
+    width: 70px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 2px;
+    position: relative;
+    left: 20px;
+}
+
+.head1{
+    font-weight: 100;
+    font-size: 30px;
+    margin-left: 41%;
+    position: relative;
+    top: 50px;
+}
+
+.jobs{
+    display: flex;
+    position: relative;
+    top: 200px;
+    gap: 60px;
+    left: 40px;
+}
+
+.head2{
+    font-weight: 100;
+    font-size: 30px;
+    margin-left: 41%;
+    position: relative;
+    top: 150px;
+    left: 50px;
+}

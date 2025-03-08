@@ -1,0 +1,134 @@
+
+.text{
+    text-decoration: none;
+    color: black;
+}
+
+.div{
+    border: 2px solid grey;
+    height: 170px;
+    width: 600px;
+    display: grid;
+    border-radius: 15px;
+}
+
+.img{
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    margin-left: 510px;
+    position: relative;
+    top: 25px;
+}
+
+.job{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    position: relative;
+    bottom: 35px;
+    left: 25px;
+}
+
+.name{
+    position: relative;
+    bottom: 40px;
+    left: 25px;
+}
+
+.loc{
+    text-transform: capitalize;
+    font-size: 17px;
+}
+
+.salary{
+    font-size: 17px;
+}
+
+.date{
+    font-size: 17px;
+}
+
+.flex{
+    display: flex;
+    gap: 90px;
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+}
+
+.jobs{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    position: absolute;
+    left: 700px;
+    top: 200px;
+}
+
+.search{
+    border: 2px solid rgb(100, 99, 99);
+    height: 500px;
+    width: 450px;
+    position: absolute;
+    left: 70px;
+    top: 170px;
+    border-radius: 20px;
+}
+
+.jobser{
+    font-size: 22px;
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+
+.input1{
+    height: 30px;
+    width: 300px;
+    position: relative;
+    top: 130px;
+    left: 70px;
+    border-radius: 15px;
+}
+
+.input2{
+    height: 30px;
+    width: 300px;
+    position: relative;
+    top: 250px;
+    left: 70px;
+    border-radius: 15px;
+}
+
+.button1{
+    height: 30px;
+    width: 120px;
+    position: relative;
+    border-radius: 15px;
+    top: 200px;
+    right: 150px;
+}
+
+.button2{
+    height: 30px;
+    width: 150px;
+    position: relative;
+    border-radius: 15px;
+    top: 300px;
+    left: 134px;
+}
+
+.locser{
+    position: relative;
+    font-size: 20px;
+    top: 230px;
+    left: 50px;
+}
+
+.heading{
+    font-size: 26px;
+    position: relative;
+    top: 40px;
+    left: 180px;
+}

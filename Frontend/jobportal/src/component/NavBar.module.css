@@ -1,0 +1,46 @@
+
+.div
+{
+    display: flex;
+    border-bottom: 2px solid grey;
+    padding: 20px;
+    height: 70px;
+}
+
+.decom
+{
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.button
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    text-align: center;
+}
+
+:hover.decom
+{
+    color: blue;
+}
+
+.heading
+{
+    position: relative;
+    top: 25px;
+    color: rgb(36, 191, 234);
+    left: 30px;
+    font-size: 30px;
+}
+
+.home{
+    color: rgb(105, 103, 103);
+    position: relative;
+    left: 350px;
+    bottom: 25px;
+}
